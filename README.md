@@ -4,7 +4,12 @@ An AUR (Arch Linux User Repository) installer for the Jameel Noori Nastaleeq fon
 
 ## Source
 
-The actual font is available at [Urdu Jahan](http://www.urdujahan.com/font.html). This installer allows Arch Linux users to install it using `makepkg` which is the standard Arch way.
+Original Contributor: Jahanzaib
+
+The actual font **was** available at [Urdu Jahan](http://www.urdujahan.com/font.html).
+We are mirroring it here.
+
+This installer allows Arch Linux users to install it using `makepkg` which is the standard Arch way.
 
 ## AUR Link
 
