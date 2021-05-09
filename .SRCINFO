@@ -1,6 +1,6 @@
 pkgbase = ttf-jameel-noori-nastaleeq
 	pkgdesc = Jameel Noori Nastaleeq Font for Urdu Typesetting
-	pkgver = 1
+	pkgver = 1.1.0
 	pkgrel = 1
 	url = http://www.urdujahan.com/font.html
 	arch = any

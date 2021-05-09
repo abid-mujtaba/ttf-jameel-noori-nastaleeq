@@ -1,7 +1,7 @@
 # Maintainer: Abid H. Mujtaba <abid.naqvi83@gmail.com>
 # Contributer: Jahanzaib (Urdu Jahan)
 pkgname=ttf-jameel-noori-nastaleeq
-pkgver=1
+pkgver=1.1.0
 pkgrel=1
 pkgdesc="Jameel Noori Nastaleeq Font for Urdu Typesetting"
 arch=('any')
